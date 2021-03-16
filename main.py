@@ -40,4 +40,4 @@ if __name__ == "__main__":
     url = "https://shop.lululemon.com/p/women-pants/Align-Pant-Tall/_/prod9410067?color=26950&sz=12"
     while True:
         check_inventory(url)
-        time.sleep(3600)
+        time.sleep(1800)
